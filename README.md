@@ -32,11 +32,11 @@ I'm Demaxsuel, a data analyst and social scientist passionate about working with
     </tr>
       <td width="25%" align="center">
         <span>tableau</span><br><br>
-        <img height="64px" src="https://dev3lop.com/wp-content/uploads/2017/04/tableau-logo-tableau-software.jpg">
+        <img height="64px" src="https://img.ibxk.com.br/2019/08/12/12154604838117.jpg">
       </td>
       <td width="25%" align="center">
-        <span>GDS</span><br><br>
-        <img height="64px" src="https://eficazmarketing.com/wp-content/uploads/2022/04/0_MxEInXqPp1REZ3ik-1.jpg">
+        <span>Google Data Studio</span><br><br>
+        <img height="64px" src="https://i.pinimg.com/736x/3e/f4/b0/3ef4b0086811aef320a60e39c132dec9.jpg">
       </td>
       <td width="25%" align="center">
         <span>Power BI</span><br><br>
@@ -44,7 +44,7 @@ I'm Demaxsuel, a data analyst and social scientist passionate about working with
       </td>
       <td width="25%" align="center">
         <span>Excel</span><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjm3_f4GuZNfdD-bLCMja_nhx-jX7N6Vds7A&usqp=CAU">
+        <img height="64px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png">
       </td>
     </tr>
   </tbody>
