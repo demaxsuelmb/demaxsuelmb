@@ -22,7 +22,7 @@ I'm Demaxsuel, a data analyst and social scientist passionate about working with
         <img height="64px" src="https://cdn.svgporn.com/logos/oracle.svg">
       </td>
       <td width="25%" align="center">
-        <span>pandas</span><br><br>
+        <span>Pandas</span><br><br>
         <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
       </td>
       <td width="25%" align="center">
@@ -31,7 +31,7 @@ I'm Demaxsuel, a data analyst and social scientist passionate about working with
       </td>
     </tr>
       <td width="25%" align="center">
-        <span>tableau</span><br><br>
+        <span>Tableau</span><br><br>
         <img height="64px" src="https://img.ibxk.com.br/2019/08/12/12154604838117.jpg">
       </td>
       <td width="25%" align="center">
@@ -50,11 +50,11 @@ I'm Demaxsuel, a data analyst and social scientist passionate about working with
         </tr>
       <td width="25%" align="center">
         <span>Pentaho</span><br><br>
-        <img height="64px" src="https://managementbi.files.wordpress.com/2021/01/pentaho-logo.png?w=816">
+        <img height="64px" src="https://pentahobrazil.files.wordpress.com/2013/12/pentaho-logo.png">
       </td>
       <td width="25%" align="center">
         <span>Google Analytics</span><br><br>
-        <img height="64px" src="https://resultadosdigitais.com.br/wp-content/blogs.dir/8/files/2017/07/google-analytics.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/1200px-GAnalytics.svg.png">
       </td>
       <td width="25%" align="center">
         <span>Postaman</span><br><br>
