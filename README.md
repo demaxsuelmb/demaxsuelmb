@@ -50,7 +50,7 @@ I'm Demaxsuel, a data analyst and social scientist passionate about working with
         </tr>
       <td width="25%" align="center">
         <span>tableau</span><br><br>
-        <img height="64px" src="https://img.ibxk.com.br/2019/08/12/12154604838117.jpg">
+        <img height="64px" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png">
       </td>
       <td width="25%" align="center">
         <span>Google Data Studio</span><br><br>
