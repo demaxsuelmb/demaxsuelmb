@@ -49,20 +49,20 @@ I'm Demaxsuel, a data analyst and social scientist passionate about working with
     </tr>
         </tr>
       <td width="25%" align="center">
-        <span>SQL</span><br><br>
-        <img height="64px" src="[https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png](https://www.nicepng.com/png/detail/256-2566010_pl-sql-logo-png.png">
+        <span>Pentaho</span><br><br>
+        <img height="64px" src="https://managementbi.files.wordpress.com/2021/01/pentaho-logo.png?w=816">
       </td>
       <td width="25%" align="center">
-        <span>Google Data Studio</span><br><br>
-        <img height="64px" src="https://i.pinimg.com/736x/3e/f4/b0/3ef4b0086811aef320a60e39c132dec9.jpg">
+        <span>Google Analytics</span><br><br>
+        <img height="64px" src="https://resultadosdigitais.com.br/wp-content/blogs.dir/8/files/2017/07/google-analytics.png">
       </td>
       <td width="25%" align="center">
-        <span>Power BI</span><br><br>
-        <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
+        <span>Postaman</span><br><br>
+        <img height="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png">
       </td>
       <td width="25%" align="center">
-        <span>Excel</span><br><br>
-        <img height="64px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png">
+        <span>SCRUM</span><br><br>
+        <img height="64px" src="https://clickup.com/landing/images/logo_on-purple_vert.png">
       </td>
 
   </tbody>
