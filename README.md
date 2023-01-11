@@ -49,8 +49,8 @@ I'm Demaxsuel, a data analyst and social scientist passionate about working with
     </tr>
         </tr>
       <td width="25%" align="center">
-        <span>tableau</span><br><br>
-        <img height="64px" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png">
+        <span>SQL</span><br><br>
+        <img height="64px" src="[https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png](https://www.nicepng.com/png/detail/256-2566010_pl-sql-logo-png.png">
       </td>
       <td width="25%" align="center">
         <span>Google Data Studio</span><br><br>
