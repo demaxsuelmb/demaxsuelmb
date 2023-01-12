@@ -9,6 +9,7 @@
   
 I'm Demaxsuel, a data analyst and social scientist passionate about working with companies that want to make effective use of their data.
 
+
 ## Skills
 <table> 
   <tbody>
