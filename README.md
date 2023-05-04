@@ -36,8 +36,8 @@ I'm Demaxsuel, a data analyst and social scientist passionate about working with
         <img height="64px" src="https://img.ibxk.com.br/2019/08/12/12154604838117.jpg">
       </td>
       <td width="25%" align="center">
-        <span>Google Data Studio</span><br><br>
-        <img height="64px" src="https://i.pinimg.com/736x/3e/f4/b0/3ef4b0086811aef320a60e39c132dec9.jpg">
+        <span>Looker Data Studio</span><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/354012/looker-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Power BI</span><br><br>
